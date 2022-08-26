@@ -20,7 +20,7 @@ jobs:
       - run: python3 parser.py
       - name: commit file
         run: |
-          git config --local user.email "${{ EMAIL }}"
+          git config --local user.email "${{ secrets.EMAIL }}"
           git config --local username "noahBin23"
           git add pictures/*
           git commit -m "update pictures"
