@@ -1,0 +1,30 @@
+name: parse image with python script
+
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '0 6 * * *'
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          cache: 'pip' # caching pip dependencies
+      - run: pip install -r requirements.txt
+      - run: python3 parser.py
+      - name: commit file
+        run: |
+          git config --local user.email "${{ EMAIL }}"
+          git config --local username "noahBin23"
+          git add pictures/*
+          git commit -m "update pictures"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.PUSH_TOKEN }}
+          branch: main
