@@ -48,7 +48,7 @@ def main():
         image['urlbase'] = BASIC_URL + image['urlbase']
         image['copyrightlink'] = BASIC_URL + image['copyrightlink']
         image['quiz'] = BASIC_URL + image['quiz']
-        image['p_path'] = "/" + pic_filename
+        image['p_path'] = "/{}/{}.jpg".format(startdate[:6], startdate)
 
         metadata_filename = dirname + '/metadata.json'
         path_exists = os.path.exists(metadata_filename)
