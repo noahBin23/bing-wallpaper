@@ -25,7 +25,7 @@ def main():
         startdate = image['startdate']
 
         # create directory
-        dirname = os.getcwd() + '/pictures/' + startdate[:6]
+        dirname = 'pictures/' + startdate[:6]
         if not os.path.exists(dirname):
             os.mkdir(dirname)
 
@@ -46,7 +46,7 @@ def main():
         image['urlbase'] = BASIC_URL + image['urlbase']
         image['copyrightlink'] = BASIC_URL + image['copyrightlink']
         image['quiz'] = BASIC_URL + image['quiz']
-        image['p_path'] = "/pictures/{}/{}.jpg".format(startdate[:6], startdate)
+        image['p_path'] = "/" + pic_filename
 
         metadata_filename = dirname + '/metadata.json'
         path_exists = os.path.exists(metadata_filename)
