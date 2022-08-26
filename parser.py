@@ -27,7 +27,7 @@ def main():
         # create directory
         dirname = 'pictures/' + startdate[:6]
         if not os.path.exists(dirname):
-            os.mkdir(dirname)
+            os.makedirs(dirname, exist_ok=True)
 
         pic_url = BASIC_URL + image['url']
         # download picture

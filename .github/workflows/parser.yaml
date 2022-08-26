@@ -18,7 +18,6 @@ jobs:
           cache: 'pip' # caching pip dependencies
       - run: pip install -r requirements.txt
       - name: run
-        working-directory: ./bing-wallpaper
         run: python3 parser.py
       - name: commit file
         run: |
