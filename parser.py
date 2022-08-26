@@ -19,7 +19,9 @@ BASIC_URL = "https://cn.bing.com"
 
 
 def main():
-    response = requests.get(API_ADDRESS)
+    response = requests.get(API_ADDRESS, headers={
+        'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8'
+    })
     res_data = response.json()
     for image in res_data['images']:
         startdate = image['startdate']
