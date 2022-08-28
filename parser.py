@@ -63,16 +63,17 @@ def main():
         else:
             with open(metadata_filename, 'r') as f:
                 o_data = json.loads(f.read())
-            with open(metadata_filename, 'w') as f:
-                # judge exists
-                exists = False
-                for im in o_data['images']:
-                    if image['startdate'] == im['startdate']:
-                        exists = True
 
-                if not exists:
-                    o_data['images'].append(image)
-                    o_data['updated_at'] = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            # judge exists
+            exists = False
+            for im in o_data['images']:
+                if image['startdate'] == im['startdate']:
+                    exists = True
+
+            if not exists:
+                o_data['images'].append(image)
+                o_data['updated_at'] = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                with open(metadata_filename, 'w') as f:
                     f.write(json.dumps(o_data, ensure_ascii=False, indent=4))
 
         logger.info('write meta data:{}'.format(metadata_filename))
