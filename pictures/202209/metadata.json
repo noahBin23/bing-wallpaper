@@ -45,7 +45,30 @@
             "bot": 1,
             "hs": [],
             "p_path": "/202209/20220902.jpg"
+        },
+        {
+            "startdate": "20220903",
+            "fullstartdate": "202209030700",
+            "enddate": "20220904",
+            "url": "https://cn.bing.com/th?id=OHR.MalaysiaTwinTowers_EN-US7848703415_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+            "urlbase": "https://cn.bing.com/th?id=OHR.MalaysiaTwinTowers_EN-US7848703415",
+            "copyright": "Petronas Twin Towers, Kuala Lumpur, Malaysia (© tampatra/Getty Images)",
+            "copyrightlink": "https://cn.bing.com/search?q=petronas+towers+skyscrapers&form=hpcapt&filters=HpDate%3a%2220220903_0700%22",
+            "title": "A pair of high achievers",
+            "caption": "Skyscraper Day",
+            "copyrightonly": "© tampatra/Getty Images",
+            "desc": "The Petronas Twin Towers are the unmistakable calling card of the Malaysian capital city of Kuala Lumpur, affectionately called KL. The 88-story, 1,483-foot cylindrical towers were the tallest buildings in the world when they were completed in 1996, until 2004 when Taiwan's Taipei 101 topped them by almost 200 feet. Still the tallest twin skyscrapers in the world, they're our perfect inspiration today on Skyscraper Day, set aside to appreciate such engineering and architectural feats.",
+            "date": "Sep 3, 2022",
+            "bsTitle": "A pair of high achievers",
+            "quiz": "https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220903_MalaysiaTwinTowers%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "94febd5e450b7dc5cdae7004decfca4c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": [],
+            "p_path": "/202209/20220903.jpg"
         }
     ],
-    "updated_at": "2022-09-03 06:29:24"
+    "updated_at": "2022-09-04 06:28:58"
 }
