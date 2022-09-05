@@ -68,7 +68,30 @@
             "bot": 1,
             "hs": [],
             "p_path": "/202209/20220903.jpg"
+        },
+        {
+            "startdate": "20220904",
+            "fullstartdate": "202209040700",
+            "enddate": "20220905",
+            "url": "https://cn.bing.com/th?id=OHR.ArambolBeach_EN-US7908449198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+            "urlbase": "https://cn.bing.com/th?id=OHR.ArambolBeach_EN-US7908449198",
+            "copyright": "Arambol Beach in Goa, India (© Ben Pipe/Alamy)",
+            "copyrightlink": "https://cn.bing.com/search?q=Arambol+Goa&form=hpcapt&filters=HpDate%3a%2220220904_0700%22",
+            "title": "The Riviera of India",
+            "caption": "Arambol Beach, Goa, India",
+            "copyrightonly": "© Ben Pipe/Alamy",
+            "desc": "Known for its immense, densely populated cities, India also has a seemingly endless coastline. And no part of it is more languid and lovely than Arambol, in the small and special state of Goa on the southwestern coast. Arambol is a popular holiday town with the vibe of a sleepy fishing village—which it was once was. Now visitors from around the world are drawn to its tropical climate, rainforest valleys, historic architecture, and sandy beaches.",
+            "date": "Sep 4, 2022",
+            "bsTitle": "The Riviera of India",
+            "quiz": "https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220904_ArambolBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cd61c735175eb88336fdb0a734a70994",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": [],
+            "p_path": "/202209/20220904.jpg"
         }
     ],
-    "updated_at": "2022-09-04 06:28:58"
+    "updated_at": "2022-09-05 06:52:41"
 }
