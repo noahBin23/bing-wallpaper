@@ -298,7 +298,30 @@
             "bot": 1,
             "hs": [],
             "p_path": "/202209/20220912.jpg"
+        },
+        {
+            "startdate": "20220914",
+            "fullstartdate": "202209140700",
+            "enddate": "20220915",
+            "url": "https://cn.bing.com/th?id=OHR.MarbleCanyon_EN-US7056773172_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+            "urlbase": "https://cn.bing.com/th?id=OHR.MarbleCanyon_EN-US7056773172",
+            "copyright": "Navajo Bridge over the Colorado River at the Glen Canyon National Recreation Area in northern Arizona (© trekandshoot/Alamy)",
+            "copyrightlink": "https://cn.bing.com/search?q=marble+canyon+bridge&form=hpcapt&filters=HpDate%3a%2220220914_0700%22",
+            "title": "Bridging the gap two ways",
+            "caption": "Navajo Bridge in Marble Canyon",
+            "copyrightonly": "© trekandshoot/Alamy",
+            "desc": "In the late 1800s, pioneers in Utah who wanted to expand their settlements south into Arizona were confronted by 600 miles of deep canyons carved by the Colorado River. By 1873 a ferry was established to cross the Colorado at the mouth of Glen Canyon—Lees Ferry, as it was called, remained vital to settlers in the area for more than 50 years, until authorities decided a bridge would provide more reliable and safer crossing. Construction began in 1927 of a span across the 834-foot gap of Marble Canyon, at the head of the Grand Canyon. When Grand Canyon Bridge opened to traffic in 1929 it was hailed as a 'modern marvel' and 'the biggest news in Southwest history.'",
+            "date": "Sep 14, 2022",
+            "bsTitle": "Bridging the gap two ways",
+            "quiz": "https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220914_MarbleCanyon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6f6a9617e89783f51f0c1c18b8a3c810",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": [],
+            "p_path": "/202209/20220914.jpg"
         }
     ],
-    "updated_at": "2022-09-13 07:00:03"
+    "updated_at": "2022-09-15 06:48:33"
 }
