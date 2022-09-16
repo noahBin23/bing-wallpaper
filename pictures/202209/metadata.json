@@ -321,7 +321,30 @@
             "bot": 1,
             "hs": [],
             "p_path": "/202209/20220914.jpg"
+        },
+        {
+            "startdate": "20220915",
+            "fullstartdate": "202209150700",
+            "enddate": "20220916",
+            "url": "https://cn.bing.com/th?id=OHR.BuffaloMural_EN-US7123580117_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+            "urlbase": "https://cn.bing.com/th?id=OHR.BuffaloMural_EN-US7123580117",
+            "copyright": "Mural by Betsy Casañas in Buffalo, New York (© Tom Loonan)",
+            "copyrightlink": "https://cn.bing.com/search?q=hispanic+heritage+month&form=hpcapt&filters=HpDate%3a%2220220915_0700%22",
+            "title": "Celebrating Hispanic Heritage Month",
+            "caption": "Hispanic Heritage Month",
+            "copyrightonly": "© Tom Loonan",
+            "desc": "We're kicking off Hispanic Heritage Month with this beautiful mural celebrating the contributions made to the Buffalo, New York, region by the Hispanic and Latinx communities. Artist, community activist, and educator Betsy Casañas, with the assistance of many local artists, created this mural called 'Homeland, Perhaps It Is Because I Wish to See You Fly, That My Flight Continues to Be Yours.' Its subjects highlight local cultural heritage, including portrayals of agricultural production and industrial work. Through conversations with members of the community, Casañas incorporated symbolism inspired by the mixed and integrated Latinx community of Buffalo.",
+            "date": "Sep 15, 2022",
+            "bsTitle": "Celebrating Hispanic Heritage Month",
+            "quiz": "https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220915_BuffaloMural%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "eb98c5ed8f722028352adf74fb3fd261",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": [],
+            "p_path": "/202209/20220915.jpg"
         }
     ],
-    "updated_at": "2022-09-15 06:48:33"
+    "updated_at": "2022-09-16 06:52:33"
 }
