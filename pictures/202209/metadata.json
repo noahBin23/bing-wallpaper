@@ -482,7 +482,30 @@
             "bot": 1,
             "hs": [],
             "p_path": "/202209/20220920.jpg"
+        },
+        {
+            "startdate": "20220922",
+            "fullstartdate": "202209220700",
+            "enddate": "20220923",
+            "url": "https://cn.bing.com/th?id=OHR.LastDollarRoad_EN-US7923638318_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+            "urlbase": "https://cn.bing.com/th?id=OHR.LastDollarRoad_EN-US7923638318",
+            "copyright": "The aspen canopy along the Last Dollar Road near Telluride, Colorado (© Grant Ordelheide/Tandem Stills + Motion)",
+            "copyrightlink": "https://cn.bing.com/search?q=autumnal+equinox&FORM=hpcapt&filters=HpDate%3a%2220220922_0700%22",
+            "title": "Quaking with autumn color",
+            "caption": "First day of autumn",
+            "copyrightonly": "© Grant Ordelheide/Tandem Stills + Motion",
+            "desc": "There's a chance this dazzling, ground-up view of fall foliage is not where you think it is. While New England garners most of the leaf-peeping attention in the US this time of year, the high country of Colorado puts on a spectacular show out West. The aspens of the Centennial State turn shades of gold and orange in autumn, which officially starts today. Fall typically marks the end of vacations, the beginning of school, the arrival of chilly nights, and, if you're lucky, a display of leaves turned brilliant shades of gold and red.",
+            "date": "Sep 22, 2022",
+            "bsTitle": "Quaking with autumn color",
+            "quiz": "https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220922_LastDollarRoad%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "08daa5f138671e80b2478817001a7070",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": [],
+            "p_path": "/202209/20220922.jpg"
         }
     ],
-    "updated_at": "2022-09-21 07:01:00"
+    "updated_at": "2022-09-23 06:53:46"
 }
