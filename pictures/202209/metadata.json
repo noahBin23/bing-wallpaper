@@ -574,7 +574,30 @@
             "bot": 1,
             "hs": [],
             "p_path": "/202209/20220925.jpg"
+        },
+        {
+            "startdate": "20220926",
+            "fullstartdate": "202209260700",
+            "enddate": "20220927",
+            "url": "https://cn.bing.com/th?id=OHR.SusitnaRiver_EN-US7154675950_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+            "urlbase": "https://cn.bing.com/th?id=OHR.SusitnaRiver_EN-US7154675950",
+            "copyright": "Caribou crossing the Susitna River during autumn, Alaska (© Tim Plowden/Alamy)",
+            "copyrightlink": "https://cn.bing.com/search?q=caribou+reindeer&form=hpcapt&filters=HpDate%3a%2220220926_0700%22",
+            "title": "Time to make an impression",
+            "caption": "Autumn in Alaska",
+            "copyrightonly": "© Tim Plowden/Alamy",
+            "desc": "It's that time of year when Alaskan caribou are beginning to feel a little frisky. From late September until early November, males will be strutting their stuff, locking antlers with one another, and competing for the attention of females in hopes of furthering the species. Successful males will mate with 15-20 females a season. After the rutting season males will shed their antlers while females keep theirs until spring. In today's photo we're looking at some caribou in southcentral Alaska crossing the Susitna River.",
+            "date": "Sep 26, 2022",
+            "bsTitle": "Time to make an impression",
+            "quiz": "https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220926_SusitnaRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d9b271be675601126a3560bdaf2433d1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": [],
+            "p_path": "/202209/20220926.jpg"
         }
     ],
-    "updated_at": "2022-09-26 06:56:40"
+    "updated_at": "2022-09-27 06:57:54"
 }
