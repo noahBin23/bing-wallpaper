@@ -91,7 +91,30 @@
             "bot": 1,
             "hs": [],
             "p_path": "/202210/20221004.jpg"
+        },
+        {
+            "startdate": "20221005",
+            "fullstartdate": "202210050700",
+            "enddate": "20221006",
+            "url": "https://cn.bing.com/th?id=OHR.FlamingoTeacher_EN-US8819896781_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+            "urlbase": "https://cn.bing.com/th?id=OHR.FlamingoTeacher_EN-US8819896781",
+            "copyright": "Caribbean flamingos, Ría Lagartos Biosphere Reserve, Yucatán Peninsula, Mexico (© Claudio Contreras/Minden Pictures)",
+            "copyrightlink": "https://cn.bing.com/search?q=world+teachers+day&form=hpcapt&filters=HpDate%3a%2220221005_0700%22",
+            "title": "Single file, now!",
+            "caption": "World Teachers' Day",
+            "copyrightonly": "© Claudio Contreras/Minden Pictures",
+            "desc": "Class trip? Looks like this teacher has their youngsters in line. If only it were always this easy.... Today is World Teachers' Day, and we're celebrating educators of all kinds. This year's theme is 'Teachers at the heart of educational renewal,' and it highlights the remarkable efforts of teachers during the COVID-19 pandemic and quarantine. They've had to balance health and safety concerns with an abrupt switch to remote learning or partial in-person classes, all while focusing on the education and well-being of their students.",
+            "date": "Oct 5, 2022",
+            "bsTitle": "Single file, now!",
+            "quiz": "https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20221005_FlamingoTeacher%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "42d5e91d2a474db924020d90bf301f03",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": [],
+            "p_path": "/202210/20221005.jpg"
         }
     ],
-    "updated_at": "2022-10-05 06:48:28"
+    "updated_at": "2022-10-06 06:38:51"
 }
