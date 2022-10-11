@@ -206,7 +206,30 @@
             "bot": 1,
             "hs": [],
             "p_path": "/202210/20221009.jpg"
+        },
+        {
+            "startdate": "20221010",
+            "fullstartdate": "202210100700",
+            "enddate": "20221011",
+            "url": "https://cn.bing.com/th?id=OHR.SacredSmoke_EN-US7047459944_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+            "urlbase": "https://cn.bing.com/th?id=OHR.SacredSmoke_EN-US7047459944",
+            "copyright": "The 'Circle of Sacred Smoke' sculpture by Junkyu Muto frames Devils Tower in Wyoming (© Nagel Photography/Shutterstock)",
+            "copyrightlink": "https://cn.bing.com/search?q=indigenous+peoples+day&form=hpcapt&filters=HpDate%3a%2220221010_0700%22",
+            "title": "'Circle of Sacred Smoke'",
+            "caption": "Indigenous Peoples' Day",
+            "copyrightonly": "© Nagel Photography/Shutterstock",
+            "desc": "We're celebrating Indigenous Peoples' Day by peering through the sculpture called 'Circle of Sacred Smoke' aka 'Wind Circle' or 'Circle Wind' at Devils Tower, one of the most famous rock monoliths in the US. The 'Circle,' sculpted by Japanese artist Junkyu Muto and installed in 2008, is the third of seven 'peace sculptures' placed around the world. Twelve feet high and made of white marble, it's intended to evoke a puff of smoke from a Native American ceremonial pipe.",
+            "date": "Oct 10, 2022",
+            "bsTitle": "'Circle of Sacred Smoke'",
+            "quiz": "https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20221010_SacredSmoke%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "5b3f99291bfa744f7338ab4739de4efc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": [],
+            "p_path": "/202210/20221010.jpg"
         }
     ],
-    "updated_at": "2022-10-10 06:55:16"
+    "updated_at": "2022-10-11 06:51:18"
 }
