@@ -620,7 +620,30 @@
             "bot": 1,
             "hs": [],
             "p_path": "/202210/20221027.jpg"
+        },
+        {
+            "startdate": "20221028",
+            "fullstartdate": "202210280700",
+            "enddate": "20221029",
+            "url": "https://cn.bing.com/th?id=OHR.FrankensteinFriday_EN-US3119113489_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+            "urlbase": "https://cn.bing.com/th?id=OHR.FrankensteinFriday_EN-US3119113489",
+            "copyright": "Stormy sky over Lake Geneva in Lausanne, Switzerland (© Suradech Singhanat/Shutterstock)",
+            "copyrightlink": "https://cn.bing.com/search?q=Lake+Geneva+switzerland+scenery&form=hpcapt&filters=HpDate%3a%2220221028_0700%22",
+            "title": "On a dark and stormy night...",
+            "caption": "Frankenstein Friday",
+            "copyrightonly": "© Suradech Singhanat/Shutterstock",
+            "desc": "If the sight of storm clouds gathering over Lake Geneva puts you in a dark mood, then you have an idea of Mary Shelley's frame of mind when she conceived the story that would become her seminal work. While Shelley wrote several historical novels and travel books, it was this macabre story of a grotesque creature that made her legacy.",
+            "date": "Oct 28, 2022",
+            "bsTitle": "On a dark and stormy night...",
+            "quiz": "https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20221028_FrankensteinFriday%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d0ed89548e0ae7784ac58cdf364c6b84",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": [],
+            "p_path": "/202210/20221028.jpg"
         }
     ],
-    "updated_at": "2022-10-28 06:32:45"
+    "updated_at": "2022-10-29 06:31:14"
 }
