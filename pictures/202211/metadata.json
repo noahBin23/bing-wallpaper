@@ -275,7 +275,30 @@
             "bot": 1,
             "hs": [],
             "p_path": "/202211/20221112.jpg"
+        },
+        {
+            "startdate": "20221113",
+            "fullstartdate": "202211130800",
+            "enddate": "20221114",
+            "url": "https://cn.bing.com/th?id=OHR.PunchBowl_EN-US0351920520_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+            "urlbase": "https://cn.bing.com/th?id=OHR.PunchBowl_EN-US0351920520",
+            "copyright": "The Punch Bowl on the River Quoich in the Cairngorms, Aberdeenshire, Scotland (© AWL Images/Danita Delimont)",
+            "copyrightlink": "https://cn.bing.com/search?q=River+Quoich+Scotland&form=hpcapt&filters=HpDate%3a%2220221113_0800%22",
+            "title": "Take a sip from the Punch Bowl",
+            "caption": "River Quoich in Aberdeenshire, Scotland",
+            "copyrightonly": "© AWL Images/Danita Delimont",
+            "desc": "In the eastern Highlands of Scotland, tucked into the forested plateaus of the Cairngorms mountain range, is a small but beloved river that runs through a ravine. The River Quoich is frequented by nature lovers, hikers, and intrepid paddlers willing to brave its surprisingly swift currents and its several waterfalls, including the one featured here, the Linn of Quoich. This spot is famous for the bowl-shaped cavity in the rock that you see on the left.",
+            "date": "Nov 13, 2022",
+            "bsTitle": "Take a sip from the Punch Bowl",
+            "quiz": "https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20221113_PunchBowl%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "ffc827c1f2b057594d40ba460131a5d7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": [],
+            "p_path": "/202211/20221113.jpg"
         }
     ],
-    "updated_at": "2022-11-13 06:29:34"
+    "updated_at": "2022-11-14 06:31:54"
 }
