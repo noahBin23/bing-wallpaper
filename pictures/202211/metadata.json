@@ -390,7 +390,30 @@
             "bot": 1,
             "hs": [],
             "p_path": "/202211/20221117.jpg"
+        },
+        {
+            "startdate": "20221118",
+            "fullstartdate": "202211180800",
+            "enddate": "20221119",
+            "url": "https://cn.bing.com/th?id=OHR.IslamicArt_EN-US8618450174_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+            "urlbase": "https://cn.bing.com/th?id=OHR.IslamicArt_EN-US8618450174",
+            "copyright": "The gates of the Royal Palace (Dar al-Makhzen) in Fez, Morocco (© Adam Smigielski/Getty Images)",
+            "copyrightlink": "https://cn.bing.com/search?q=islamic+architecture+history&form=hpcapt&filters=HpDate%3a%2220221118_0800%22",
+            "title": "Keyholes to the kingdom",
+            "caption": "International Day of Islamic Art",
+            "copyrightonly": "© Adam Smigielski/Getty Images",
+            "desc": "The International Day of Islamic Art, proclaimed by UNESCO in 2019, occurs every November 18 to celebrate past and contemporary artistic expressions of Islam, and to highlight Islamic artists' contributions to world civilization. November 18 also marks Morocco's independence day, commemorating Sultan Muhammad V's return to Morocco from exile in November 1955.",
+            "date": "Nov 18, 2022",
+            "bsTitle": "Keyholes to the kingdom",
+            "quiz": "https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20221118_IslamicArt%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7b1a96e4d619e7673c5b0ef03dcb797f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": [],
+            "p_path": "/202211/20221118.jpg"
         }
     ],
-    "updated_at": "2022-11-18 06:29:45"
+    "updated_at": "2022-11-19 06:28:01"
 }
