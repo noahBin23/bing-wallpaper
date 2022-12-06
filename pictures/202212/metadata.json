@@ -91,7 +91,30 @@
             "bot": 1,
             "hs": [],
             "p_path": "/202212/20221204.jpg"
+        },
+        {
+            "startdate": "20221205",
+            "fullstartdate": "202212050800",
+            "enddate": "20221206",
+            "url": "https://cn.bing.com/th?id=OHR.StNick_EN-US1370158441_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+            "urlbase": "https://cn.bing.com/th?id=OHR.StNick_EN-US1370158441",
+            "copyright": "Saint Nicholas Day in Verbier, Switzerland (© Denis Balibouse/Reuters)",
+            "copyrightlink": "https://cn.bing.com/search?q=Verbier+Switzerland&form=hpcapt&filters=HpDate%3a%2220221205_0800%22",
+            "title": "Santa slalom",
+            "caption": "Saint Nicholas Day in Verbier, Switzerland",
+            "copyrightonly": "© Denis Balibouse/Reuters",
+            "desc": "We're used to Santa Claus sliding down chimneys, but who knew he could ski? Thousands of Santa Clauses make a stunning downhill display to open the ski season in Verbier, Switzerland, each year. Why the costumes? Their annual descent also celebrates the feast day of Saint Nicholas, observed in Europe on December 5 and in the US on December 6.",
+            "date": "Dec 5, 2022",
+            "bsTitle": "Santa slalom",
+            "quiz": "https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20221205_StNick%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "6c20d8a4ba2159b297e1e9441caa2d65",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": [],
+            "p_path": "/202212/20221205.jpg"
         }
     ],
-    "updated_at": "2022-12-05 06:26:06"
+    "updated_at": "2022-12-06 06:25:45"
 }
