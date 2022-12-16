@@ -321,7 +321,30 @@
             "bot": 1,
             "hs": [],
             "p_path": "/202212/20221214.jpg"
+        },
+        {
+            "startdate": "20221215",
+            "fullstartdate": "202212150800",
+            "enddate": "20221216",
+            "url": "https://cn.bing.com/th?id=OHR.Borovets_EN-US3037571286_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+            "urlbase": "https://cn.bing.com/th?id=OHR.Borovets_EN-US3037571286",
+            "copyright": "Borovets, Bulgaria (© Grigor Ivanov/Cavan Images)",
+            "copyrightlink": "https://cn.bing.com/search?q=borovets&form=hpcapt&filters=HpDate%3a%2220221215_0800%22",
+            "title": "Winter wonderland for your wallet",
+            "caption": "Borovets ski resort in Bulgaria",
+            "copyrightonly": "© Grigor Ivanov/Cavan Images",
+            "desc": "This frosty scene shows Borovets, Bulgaria's oldest winter resort, established in 1896. It's a budget-friendly skiing alternative to the more expensive resorts in the Alps, especially for beginners and those looking for fun on the slopes without shelling out the big bucks.",
+            "date": "Dec 15, 2022",
+            "bsTitle": "Winter wonderland for your wallet",
+            "quiz": "https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20221215_Borovets%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "40df5fc3432bb1dca9194bde8d00d58e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": [],
+            "p_path": "/202212/20221215.jpg"
         }
     ],
-    "updated_at": "2022-12-15 06:26:19"
+    "updated_at": "2022-12-16 06:24:44"
 }
