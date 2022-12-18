@@ -367,7 +367,30 @@
             "bot": 1,
             "hs": [],
             "p_path": "/202212/20221216.jpg"
+        },
+        {
+            "startdate": "20221217",
+            "fullstartdate": "202212170800",
+            "enddate": "20221218",
+            "url": "https://cn.bing.com/th?id=OHR.GlacierGoats_EN-US5564943350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+            "urlbase": "https://cn.bing.com/th?id=OHR.GlacierGoats_EN-US5564943350",
+            "copyright": "Mountain goats at Glacier National Park in Montana (© Sumio Harada/Minden Pictures)",
+            "copyrightlink": "https://cn.bing.com/search?q=Mountain+goat&form=hpcapt&filters=HpDate%3a%2220221217_0800%22",
+            "title": "As curious about you as you are about them",
+            "caption": "Mountain goats at Glacier National Park in Montana",
+            "copyrightonly": "© Sumio Harada/Minden Pictures",
+            "desc": "You're maybe more likely to see a mountain goat in Montana's Glacier National Park than anywhere else in the lower 48 states. And you may not just see the goats from afar—they are accustomed to humans and will saunter right up to visitors. You're going to want to keep your distance, though: Mountain goats can deliver forceful headbutts.",
+            "date": "Dec 17, 2022",
+            "bsTitle": "As curious about you as you are about them",
+            "quiz": "https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20221217_GlacierGoats%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "94161d9e8b81e2f59e3d0d718122920e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": [],
+            "p_path": "/202212/20221217.jpg"
         }
     ],
-    "updated_at": "2022-12-17 06:23:06"
+    "updated_at": "2022-12-18 06:22:55"
 }
