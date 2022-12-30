@@ -643,7 +643,30 @@
             "bot": 1,
             "hs": [],
             "p_path": "/202212/20221228.jpg"
+        },
+        {
+            "startdate": "20221229",
+            "fullstartdate": "202212290800",
+            "enddate": "20221230",
+            "url": "https://cn.bing.com/th?id=OHR.ButterflyEffect_EN-US4238684091_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+            "urlbase": "https://cn.bing.com/th?id=OHR.ButterflyEffect_EN-US4238684091",
+            "copyright": "A pair of silver-studded blue butterflies (© Misja Smits/Minden Pictures)",
+            "copyrightlink": "https://cn.bing.com/search?q=silver-studded+blue+butterfly&form=hpcapt&filters=HpDate%3a%2220221229_0800%22",
+            "title": "The butterfly effect",
+            "caption": "Silver-studded blue butterflies",
+            "copyrightonly": "© Misja Smits/Minden Pictures",
+            "desc": "The butterfly effect is a scientific concept coined 50 years ago today, and it has become a literary and metaphorical term to describe the idea that the smallest change may have massive, worldwide implications. It is often associated with chaos theory. American mathematician and meteorologist Edward Norton Lorenz theorized that the flapping of a butterfly's wings, like those of the silver-studded blue butterflies you see in today's image, could weeks later influence the formation of a tornado.",
+            "date": "Dec 29, 2022",
+            "bsTitle": "The butterfly effect",
+            "quiz": "https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20221229_ButterflyEffect%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "46a14d8c1d01a70b206abac41e6b5e3e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": [],
+            "p_path": "/202212/20221229.jpg"
         }
     ],
-    "updated_at": "2022-12-29 06:24:33"
+    "updated_at": "2022-12-30 06:25:10"
 }
