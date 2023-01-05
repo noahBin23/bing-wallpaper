@@ -68,7 +68,30 @@
             "bot": 1,
             "hs": [],
             "p_path": "/202301/20230103.jpg"
+        },
+        {
+            "startdate": "20230104",
+            "fullstartdate": "202301040800",
+            "enddate": "20230105",
+            "url": "https://cn.bing.com/th?id=OHR.Perihelion_EN-US4106263162_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+            "urlbase": "https://cn.bing.com/th?id=OHR.Perihelion_EN-US4106263162",
+            "copyright": "Earth as seen from the International Space Station (© JSC/NASA)",
+            "copyrightlink": "https://cn.bing.com/search?q=Perihelion&form=hpcapt&filters=HpDate%3a%2220230104_0800%22",
+            "title": "So close, yet so far",
+            "caption": "Earth at Perihelion",
+            "copyrightonly": "© JSC/NASA",
+            "desc": "We've reached perihelion! Two weeks after winter solstice the Earth's orbit is closer to the sun than at any other time of year—a result of the Earth's elliptical orbit. You may think, 'If we're so close to the sun, why can't I feel the heat?' Well, that's because we're only receiving about 7% more solar energy than normal, which doesn't really have much impact on the weather.",
+            "date": "Jan 4, 2023",
+            "bsTitle": "So close, yet so far",
+            "quiz": "https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230104_Perihelion%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9be8d2c384171cb67eae668e8bae22fb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": [],
+            "p_path": "/202301/20230104.jpg"
         }
     ],
-    "updated_at": "2023-01-04 06:24:53"
+    "updated_at": "2023-01-05 06:23:54"
 }
