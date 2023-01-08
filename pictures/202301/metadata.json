@@ -137,7 +137,30 @@
             "bot": 1,
             "hs": [],
             "p_path": "/202301/20230106.jpg"
+        },
+        {
+            "startdate": "20230107",
+            "fullstartdate": "202301070800",
+            "enddate": "20230108",
+            "url": "https://cn.bing.com/th?id=OHR.Mohair_EN-US4379797092_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+            "urlbase": "https://cn.bing.com/th?id=OHR.Mohair_EN-US4379797092",
+            "copyright": "Wool and mohair yarn (© Jurate Buiviene/Alamy)",
+            "copyrightlink": "https://cn.bing.com/search?q=distaff+day&form=hpcapt&filters=HpDate%3a%2220230107_0800%22",
+            "title": "What the heck is a distaff?",
+            "caption": "Yarn for Distaff Day",
+            "copyrightonly": "© Jurate Buiviene/Alamy",
+            "desc": "We're showcasing gorgeous soft wool and mohair yarn because today is Distaff Day, a celebration that dates back to medieval times. Truth be told, we're not convinced that it's really cause for celebration, since it marked women's return to spinning work after Christmas, following 12 blissful, chore-free days.",
+            "date": "Jan 7, 2023",
+            "bsTitle": "What the heck is a distaff?",
+            "quiz": "https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230107_Mohair%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8410f3f81e89eeb6dfb73e235c84564f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": [],
+            "p_path": "/202301/20230107.jpg"
         }
     ],
-    "updated_at": "2023-01-07 06:23:20"
+    "updated_at": "2023-01-08 06:23:35"
 }
